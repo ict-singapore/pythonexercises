@@ -1,6 +1,6 @@
 # Python Exercises
 
-Files for the **Python for Beginners** workshop on the left corner of the navigation bar.
+Files for the **Python for Beginners** workshop .
 
 ## More details coming soon 
 
